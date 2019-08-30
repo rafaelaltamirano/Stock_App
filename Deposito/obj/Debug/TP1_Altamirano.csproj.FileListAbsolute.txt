@@ -1,0 +1,8 @@
+C:\Users\Rafa\source\repos\Deposito\Deposito\bin\Debug\Deposito.exe.config
+C:\Users\Rafa\source\repos\Deposito\Deposito\bin\Debug\Deposito.exe
+C:\Users\Rafa\source\repos\Deposito\Deposito\bin\Debug\Deposito.pdb
+C:\Users\Rafa\source\repos\Deposito\Deposito\obj\Debug\Deposito.Properties.Resources.resources
+C:\Users\Rafa\source\repos\Deposito\Deposito\obj\Debug\TP1_Altamirano.csproj.GenerateResource.cache
+C:\Users\Rafa\source\repos\Deposito\Deposito\obj\Debug\TP1_Altamirano.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\source\repos\Deposito\Deposito\obj\Debug\Deposito.exe
+C:\Users\Rafa\source\repos\Deposito\Deposito\obj\Debug\Deposito.pdb
